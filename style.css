@@ -1,0 +1,76 @@
+* {
+
+    margin: 0px;
+
+
+}
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+
+
+
+a {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato';
+}
+
+.h1 {
+    font-size: 4.5em;
+    padding: 10px 0;
+    font-weight: 350;
+    font-style: none; 
+
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+p {
+    font-size: 150%;
+    font-weight: 50;
+    
+}
+
+.banner {
+
+    margin: 16% ;
+    text-align: center;
+    color: white;
+}
+
+
+.btn-bgstroke {
+    font-size: 25px;
+    color: #e03b25;
+    background-color: white;
+    text-decoration: none;
+    display: inline-block;
+    /*border: 1px solid white;*/
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 300;
+    margin-top: 30px;
+}
+
+.btn-bgstroke:hover {
+
+    background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);}
+
+body,
+html {
+    
+    
+    background-image: url(assets/img/bg.png);
+    
+    height: 100%;
+    
+    
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

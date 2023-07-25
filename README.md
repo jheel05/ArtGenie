@@ -1,8 +1,6 @@
 
 # ArtGennie - Revolutionizing the Art Market
 
-
-
 ArtGennie is an innovative platform that aims to revolutionize the art market by establishing direct connections between artists and customers, eliminating intermediaries, and fostering a more inclusive and accessible art-buying experience. The primary objective of ArtGennie is to provide a supportive environment for independent artists, allowing them to showcase their unique artwork and gain recognition for their talents.
 
 ## Key Features
